@@ -1,0 +1,6 @@
+{
+  "name": "velora-shopify-backend",
+  "version": "1.0.0",
+  "description": "Backend proxy para Velora — Shopify Admin API",
+  "private": true
+}
